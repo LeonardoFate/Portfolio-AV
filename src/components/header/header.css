@@ -45,6 +45,7 @@
 /* Active Link */
 .active-link,
 .nav__link:hover {
+  font-size: var(--normal-font-size);
   color: var(--title-color-dark);
 }
 

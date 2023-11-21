@@ -2,6 +2,7 @@ import React from 'react';
 import Social from './Social';
 import Data from './Data';
 import './home.css';
+import ScrolDown from './ScrolDown';
 
 const Home = () => {
     return (
@@ -11,9 +12,10 @@ const Home = () => {
                 <Social/>
 
                     <div className="home__img"></div>
-
+                    
                 <Data/>
                 </div>
+                <ScrolDown/>
             </div>
         </section>
     )
