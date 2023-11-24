@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import "./App.css";
 import Header from './components/header/Header';
 import Home from './components/home/Home';
@@ -8,9 +8,9 @@ import Services from './components/servicios/Services';
 import Portfolio from './components/portfolio/Portfolio';
 import Contact from './components/contact/Contact';
 const App = () => {
-  return (
+return (
     <>
-      <Header/>
+      <Header />
       <main className='main'>
       <Home />
       <About />
@@ -22,5 +22,4 @@ const App = () => {
     </>
   )
 }
-
-export default App
+export default App;

@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const Portfolio = () => {
+  
   return (
     <section className='portfolio section' id='portfolio'>
     <h2 className="section__title">portfolio Me</h2>
@@ -9,4 +10,4 @@ const Portfolio = () => {
   )
 }
 
-export default Portfolio
+export default Portfolio;
