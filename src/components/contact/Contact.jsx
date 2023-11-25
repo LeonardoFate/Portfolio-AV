@@ -1,6 +1,15 @@
-import React from 'react';
+import React, { useRef } from 'react';
+import emailjs from '@emailjs/browser';
 import './contact.css';
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_mt07chf', 'template_imbmwzm', form.current, 'Q9iB67kl-vEderODW')
+   e.target.reset();
+  };
   return (
 
     <section className='contact section' id='contact'>
@@ -17,25 +26,23 @@ const Contact = () => {
             <i className='bx bx-mail-send contact__card-icon'></i>
 
             <h3 className="contact__card-title">Email</h3>
-            <span className="contact__card-data">alvillamarf@gmail.com</span>
+            <span className="contact__card-data"></span>
 
             <a href="" className='contact__button'> Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
           </div>
 
           <div className="contact__card">
-            <i className='bx bx-mail-send contact__card-icon'></i>
-
+            <i className='uil uil-whatsapp contact__card-icon'></i>
             <h3 className="contact__card-title">Whatsapp</h3>
-            <span className="contact__card-data">+593994557984</span>
+            <span className="contact__card-data"></span>
 
             <a href="" className='contact__button'> Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
           </div>
 
           <div className="contact__card">
-            <i className='bx bx-mail-send contact__card-icon'></i>
-
+            <i className='uil uil-linkedin-alt contact__card-icon'></i>
             <h3 className="contact__card-title">Linkedin</h3>
-            <span className="contact__card-data">user</span>
+            <span className="contact__card-data"></span>
 
             <a href="" className='contact__button'> Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
           </div>
@@ -45,7 +52,7 @@ const Contact = () => {
       <div className="contact__content">
         <h3 className="contact__title">Escribeme tu projecto</h3>
 
-        <form  className="contact__form">
+        <form ref={form} onSubmit={sendEmail} className="contact__form">
           <div className="contact__form-div">
             <label  className='contact__form-tag'>Nombre</label>
             <input type="text" name="name" className='contact__form-input' placeholder='Escribe tu nombre'/>
