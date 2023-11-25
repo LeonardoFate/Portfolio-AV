@@ -4,9 +4,9 @@ import Header from './components/header/Header';
 import Home from './components/home/Home';
 import About from './components/about/About';
 import Skills from './components/skills/Skills';
-import Services from './components/servicios/Services';
 import Portfolio from './components/portfolio/Portfolio';
 import Contact from './components/contact/Contact';
+import Experience from './components/experience/Experience';
 const App = () => {
 return (
     <>
@@ -15,7 +15,7 @@ return (
       <Home />
       <About />
       <Skills />
-      <Services />
+      <Experience/>
       <Portfolio />
       <Contact />
       </main>

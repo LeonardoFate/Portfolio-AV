@@ -32,7 +32,7 @@ const Header = () => {
                     </li>
 
                     <li className="nav__item">
-                        <a href="#services" className="nav__link">
+                        <a href="#experience" className="nav__link">
                             <i className="uil uil-briefcase-alt nav__icon"></i>
                             <span className="nav__text">Experiencia</span>
                         </a>
