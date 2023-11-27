@@ -8,7 +8,7 @@ Soy Anthony Leonardo Villamar Franco, un estudiante de Ingenieria en computacion
 conducir proyectos clave, optimizar procesos, contribuir a la innovación y fomentar un entorno colaborativo y de aprendizaje continuo. 
 Me esfuerzo por innovar y crear soluciones efectivas en mis proyectos.
 
-## Habilidades
+## Habilidades Tecnicas
 
 - Desarrollo web: HTML, CSS, JavaScript.
 - Frameworks: React, BootStrap.
@@ -16,6 +16,9 @@ Me esfuerzo por innovar y crear soluciones efectivas en mis proyectos.
 - Bases de datos: MongoDB, MySQL, MS SQL Server.
 - Control de versiones: Git.
 - Diseño: Figma, Adobe IL.
+
+
+## Otras habilidades 
 
 - Comunicación efectiva
 - Resolución de problemas
