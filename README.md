@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Portafolio de AV_Portafolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenido a mi portafolio en línea. Aquí encontrarás información sobre mí y algunos de los proyectos en los que he trabajado. Siéntete libre de explorar y conocer más sobre mis habilidades y experiencias.
 
-## Available Scripts
+## Acerca de mí
 
-In the project directory, you can run:
+Soy Anthony Leonardo Villamar Franco, un estudiante de Ingenieria en computacion apasionado por el desarrollo de aplicaciones web y de escritorio. Mi objetivo es 
+conducir proyectos clave, optimizar procesos, contribuir a la innovación y fomentar un entorno colaborativo y de aprendizaje continuo. 
+Me esfuerzo por innovar y crear soluciones efectivas en mis proyectos.
 
-### `npm start`
+## Habilidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Desarrollo web: HTML, CSS, JavaScript.
+- Frameworks: React, BootStrap.
+- Backend: Node.js, C#, .NET.
+- Bases de datos: MongoDB, MySQL, MS SQL Server.
+- Control de versiones: Git.
+- Diseño: Figma, Adobe IL.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Comunicación efectiva
+- Resolución de problemas
+- Colaboración en equipo
+- Gestión del tiempo
+- Adaptabilidad
+- Pensamiento analítico
+- Creatividad
+- Orientación al cliente
+- Aprendizaje rápido
+- Pensamiento crítico
 
-### `npm test`
+## Cómo Contactarme
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Si tienes preguntas o simplemente quieres saludar, puedes contactarme a través de:
 
-### `npm run build`
+- Correo electrónico: [alvillamarf@gma.com]
+- LinkedIn: [linkedin.com/in/anthony-villamar/]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
