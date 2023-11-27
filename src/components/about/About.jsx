@@ -1,14 +1,14 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/AV.png";
-import CV from "../../assets/John-Cv.pdf";
+import CV from "../../assets/Anthony-Cv.pdf";
 import Infor from "./Infor";
 
 const About = () => {
   return (
     <section className="about section" id="about">
-      <h2 className="section__title">About Me</h2>
-      <span className="section__subtitle">My Introduction</span>
+      <h2 className="section__title">Sobre mi</h2>
+      <span className="section__subtitle">Introducción</span>
 
       <div className="about__container container grid">
       <img src={AboutImg} alt="" className="about__img" />
@@ -21,7 +21,7 @@ const About = () => {
             projects carried out.
           </p>
 
-          <a href={CV} className="button button--flex">
+          <a href={CV} className="button button--flex" target="__blank">
             Download CV
             <svg
               className="button__icon"

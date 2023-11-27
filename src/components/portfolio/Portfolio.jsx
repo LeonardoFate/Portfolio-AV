@@ -4,8 +4,8 @@ import Work from "./Work";
 const Portfolio = () => {
   return (
     <section className="portfolio section" id="portfolio">
-      <h2 className="section__title">portfolio Me</h2>
-      <span className="section__subtitle">My Introduction</span>
+      <h2 className="section__title">Portafolio</h2>
+      <span className="section__subtitle">Introduccion</span>
       <Work />
     </section>
   );

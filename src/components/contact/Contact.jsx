@@ -13,13 +13,13 @@ const Contact = () => {
   return (
 
     <section className='contact section' id='contact'>
-    <h2 className="section__title">Contact Me</h2>
-    <span className='section__subtitle'>My Introduction</span>
+    <h2 className="section__title">Contactame</h2>
+    <span className='section__subtitle'>Comencemos el Diálogo</span>
 
 
     <div className="contact__container container grid">
       <div className="contact__content">
-        <h3 className="contact__title">Talk to me</h3>
+        <h3 className="contact__title">Habla conmigo</h3>
 
         <div className="contact__info">
           <div className="contact__card">
@@ -28,7 +28,7 @@ const Contact = () => {
             <h3 className="contact__card-title">Email</h3>
             <span className="contact__card-data"></span>
 
-            <a href="" className='contact__button'> Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+            <a href="mailto:alvillamarf@gmail.com" className='contact__button'> Escribeme <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
           </div>
 
           <div className="contact__card">
@@ -36,7 +36,7 @@ const Contact = () => {
             <h3 className="contact__card-title">Whatsapp</h3>
             <span className="contact__card-data"></span>
 
-            <a href="" className='contact__button'> Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+            <a href="https://api.whatsapp.com/send/?phone=%2B593994557984&text&type=phone_number&app_absent=0" target='__blank' className='contact__button'> Escribeme <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
           </div>
 
           <div className="contact__card">
@@ -44,7 +44,7 @@ const Contact = () => {
             <h3 className="contact__card-title">Linkedin</h3>
             <span className="contact__card-data"></span>
 
-            <a href="" className='contact__button'> Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+            <a href="https://www.linkedin.com/in/anthony-villamar/" target='__black' className='contact__button'> Escribeme <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
           </div>
         </div>
       </div>
