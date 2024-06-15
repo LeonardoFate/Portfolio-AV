@@ -45,27 +45,10 @@ const Backend = () => {
             </div>
           </div>
 
-          <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">MS SQL SERVER</h3>
-              <span className="skills__level">Intermedio</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Oracle PL/SQL</h3>
-              <span className="skills__level">Basico</span>
-            </div>
-          </div>
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Backend
+export default Backend;

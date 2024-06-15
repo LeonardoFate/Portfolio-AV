@@ -1,6 +1,7 @@
 import React from 'react';
 import Backend from './Backend';
 import Frontend from './Frontend';
+import BD from './BD';
 import './skills.css';
 const Skills = () => {
   return (
@@ -11,6 +12,8 @@ const Skills = () => {
     <Frontend />
     
     <Backend />
+
+    <BD/>
 
     </div>
   
