@@ -36,7 +36,7 @@ Me esfuerzo por innovar y crear soluciones efectivas en mis proyectos.
 Si tienes preguntas o simplemente quieres saludar, puedes contactarme a través de:
 
 - Correo electrónico: [alvillamarf@gma.com]
-- LinkedIn: [linkedin.com/in/anthony-villamar/]
+- LinkedIn: [linkedin.com/in/anthony-villamar]
 
 
 
