@@ -15,7 +15,7 @@ Me esfuerzo por innovar y crear soluciones efectivas en mis proyectos.
 - Backend: Node.js, C#, .NET.
 - Bases de datos: MongoDB, MySQL, MS SQL Server.
 - Control de versiones: Git.
-- Diseño: Figma, Adobe IL.
+- Diseño: Adobe IL.
 
 
 ## Otras habilidades 
