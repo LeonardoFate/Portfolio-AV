@@ -13,7 +13,7 @@ const BD = () => {
 
             <div>
               <h3 className="skills__name">MS SQL SERVER</h3>
-              <span className="skills__level">Intermedio</span>
+              {/* <span className="skills__level">Intermedio</span> */}
             </div>
           </div>
 
@@ -21,8 +21,8 @@ const BD = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Oracle PL/SQL</h3>
-              <span className="skills__level">Basico</span>
+              <h3 className="skills__name">Mongo DB</h3>
+              {/* <span className="skills__level">Basico</span> */}
             </div>
           </div>
         </div>

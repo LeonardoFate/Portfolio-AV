@@ -12,12 +12,12 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="#projects" className="footer__link">
-              Projectos
+            <a href="https://github.com/LeonardoFate" target="__blank" className="footer__link">
+              Portafolio
             </a>
           </li>
           <li>
-            <a href="#skills" className="footer__link">
+            <a href="#skills"   className="footer__link">
               Habilidades
             </a>
           </li>
@@ -25,20 +25,20 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="www.instagram.com"
+            href="https://www.linkedin.com/in/anthony-villamar/"
             className="footer__social-link"
             target="__blank"
           >
-            <i className="bx bxl-instagram"></i>
+            <i className="bx bxl-linkedin"></i>
           </a>
 
-          <a
+          {/* <a
             href="www.dribbble.com"
             className="footer__social-link"
             target="__blank"
           >
             <i className="bx bxl-dribbble"></i>
-          </a>
+          </a> */}
 
           <a
             href="https://github.com/LeonardoFate"

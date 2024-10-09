@@ -12,7 +12,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">Java</h3>
-              <span className="skills__level">Intermedio</span>
+              {/* <span className="skills__level">Intermedio</span> */}
             </div>
           </div>
 
@@ -21,7 +21,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">Spring Boot</h3>
-              <span className="skills__level">Basico</span>
+              {/* <span className="skills__level">Basico</span> */}
             </div>
           </div>
 
@@ -30,7 +30,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">C#</h3>
-              <span className="skills__level">Basico</span>
+              {/* <span className="skills__level">Basico</span> */}
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">.NET</h3>
-              <span className="skills__level">Basico</span>
+              {/* <span className="skills__level">Basico</span> */}
             </div>
           </div>
 

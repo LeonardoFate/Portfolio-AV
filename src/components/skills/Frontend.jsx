@@ -12,7 +12,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">HTML</h3>
-              <span className="skills__level">Intermedio</span>
+              {/* <span className="skills__level">Intermedio</span> */}
             </div>
           </div>
 
@@ -21,7 +21,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">CSS</h3>
-              <span className="skills__level">INTERMEDIO</span>
+              {/* <span className="skills__level">Intermedio</span> */}
             </div>
           </div>
 
@@ -30,7 +30,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">JavaScript</h3>
-              <span className="skills__level">Intermedio</span>
+              {/* <span className="skills__level">Intermedio</span> */}
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">BootStrap</h3>
-              <span className="skills__level">Intermedio</span>
+              {/* <span className="skills__level">Intermedio</span> */}
             </div>
           </div>
 
@@ -49,13 +49,20 @@ const Frontend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">REACT</h3>
-              <span className="skills__level">Basico</span>
+              <h3 className="skills__name">React</h3>
+              {/* <span className="skills__level">Intermedio</span> */}
             </div>
           </div>
 
-      
-          
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Tailwing</h3>
+              {/* <span className="skills__level">Intermedio</span> */}
+            </div>
+          </div>
+
         </div>
       </div>
     </div>
