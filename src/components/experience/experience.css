@@ -12,7 +12,7 @@
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
   color: var(--title-color);
-  margin: 0 var(--mb-1);    
+  margin: 0 var(--mb-1);
   cursor: pointer;
 }
 .experience__button:hover {
@@ -45,7 +45,7 @@
   display: grid;
   grid-template-columns: 1fr max-content 1fr;
   column-gap: 1.5rem;
-  
+
 }
 
 .experience__title {
@@ -76,7 +76,7 @@
   width: 2px;
   height: 100%;
   background-color: var(--text-color);
-  transform: translate(6px, 7px);
+  transform: translate(6px, -5px);
 }
 
 
@@ -88,7 +88,7 @@
         margin-right: auto;
     }
   }
-  
+
   /* For medium devices */
   @media screen and (max-width: 768px) {
   .experience__container{
@@ -96,7 +96,7 @@
     margin-right: var(--mb-1-5);
   }
   }
-  
+
   @media screen and (max-width: 576px) {
     .experience__sections{
         grid-template-columns: initial;
@@ -106,11 +106,10 @@
         margin: 0 var(--mb-0-75);
     }
   }
-  
+
   /* For small devices */
   @media screen and (max-width: 350px) {
  .experience__data{
     gap: .5rem;
  }
   }
-  
